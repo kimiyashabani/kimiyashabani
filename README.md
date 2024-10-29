@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm kimiya</h1>
-<h3 align="center">A passionate IoT graduate interested in IoT technologies and data analysis and</h3>
+<h3 align="center">I'm a passionate IoT graduate interested in IoT technologies and data analysis and</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kimiyashabani" alt="kimiyashabani" /></a> </p>
 
